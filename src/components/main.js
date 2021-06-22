@@ -17,7 +17,7 @@ export const Main = (props) => {
           />
           <br />
           <button onClick={props.clickHandlerOne} id="run">
-            Get Weather1
+            Get Weather1335
           </button>
           <button onClick={props.clickHandlerTwo}>Get Forecast</button>
         </form>
